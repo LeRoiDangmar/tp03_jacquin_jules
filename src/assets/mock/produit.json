@@ -1,0 +1,198 @@
+[
+    {
+        "nom": "Ordinateur portable",
+        "prix": 799.99,
+        "poids": 1.5
+    },
+    {
+        "nom": "Clavier mécanique",
+        "prix": 69.99,
+        "poids": 0.8
+    },
+    {
+        "nom": "Souris gaming",
+        "prix": 49.99,
+        "poids": 0.2
+    },
+    {
+        "nom": "Écran 24 pouces",
+        "prix": 149.99,
+        "poids": 3.2
+    },
+    {
+        "nom": "Disque dur externe 1 To",
+        "prix": 59.99,
+        "poids": 0.25
+    },
+    {
+        "nom": "Clé USB 64 Go",
+        "prix": 15.99,
+        "poids": 0.02
+    },
+    {
+        "nom": "Imprimante multifonction",
+        "prix": 129.99,
+        "poids": 5.5
+    },
+    {
+        "nom": "Carte graphique",
+        "prix": 299.99,
+        "poids": 1.0
+    },
+    {
+        "nom": "Casque audio",
+        "prix": 79.99,
+        "poids": 0.3
+    },
+    {
+        "nom": "Routeur Wi-Fi",
+        "prix": 99.99,
+        "poids": 0.5
+    },
+    {
+        "nom": "Chargeur sans fil",
+        "prix": 29.99,
+        "poids": 0.1
+    },
+    {
+        "nom": "Support pour ordinateur portable",
+        "prix": 34.99,
+        "poids": 0.6
+    },
+    {
+        "nom": "Hub USB-C",
+        "prix": 49.99,
+        "poids": 0.1
+    },
+    {
+        "nom": "Webcam HD",
+        "prix": 39.99,
+        "poids": 0.15
+    },
+    {
+        "nom": "Tablette graphique",
+        "prix": 199.99,
+        "poids": 0.75
+    },
+    {
+        "nom": "Lampe de bureau LED",
+        "prix": 24.99,
+        "poids": 0.8
+    },
+    {
+        "nom": "Enceinte Bluetooth portable",
+        "prix": 59.99,
+        "poids": 0.4
+    },
+    {
+        "nom": "Batterie externe 20000mAh",
+        "prix": 49.99,
+        "poids": 0.45
+    },
+    {
+        "nom": "Microphone USB",
+        "prix": 89.99,
+        "poids": 0.4
+    },
+    {
+        "nom": "Carte son externe",
+        "prix": 29.99,
+        "poids": 0.1
+    },
+    {
+        "nom": "Ventilateur pour PC",
+        "prix": 19.99,
+        "poids": 0.2
+    },
+    {
+        "nom": "Clé HDMI sans fil",
+        "prix": 59.99,
+        "poids": 0.05
+    },
+    {
+        "nom": "Station de recharge multiple",
+        "prix": 69.99,
+        "poids": 1.2
+    },
+    {
+        "nom": "Coque pour smartphone",
+        "prix": 9.99,
+        "poids": 0.03
+    },
+    {
+        "nom": "Cable HDMI 2 mètres",
+        "prix": 12.99,
+        "poids": 0.1
+    },
+    {
+        "nom": "Souris ergonomique sans fil",
+        "prix": 29.99,
+        "poids": 0.2
+    },
+    {
+        "nom": "Ordinateur de bureau",
+        "prix": 1199.99,
+        "poids": 6.0
+    },
+    {
+        "nom": "Casque VR",
+        "prix": 399.99,
+        "poids": 0.5
+    },
+    {
+        "nom": "Station d'accueil pour PC portable",
+        "prix": 99.99,
+        "poids": 0.9
+    },
+    {
+        "nom": "Tapis de souris XXL",
+        "prix": 19.99,
+        "poids": 0.4
+    },
+    {
+        "nom": "Chargeur universel pour laptop",
+        "prix": 39.99,
+        "poids": 0.3
+    },
+    {
+        "nom": "Répéteur Wi-Fi",
+        "prix": 49.99,
+        "poids": 0.2
+    },
+    {
+        "nom": "Boîtier pour disque dur SSD",
+        "prix": 14.99,
+        "poids": 0.1
+    },
+    {
+        "nom": "Manette de jeu pour PC",
+        "prix": 39.99,
+        "poids": 0.3
+    },
+    {
+        "nom": "Sac à dos pour ordinateur",
+        "prix": 59.99,
+        "poids": 0.8
+    },
+    {
+        "nom": "Clavier sans fil",
+        "prix": 49.99,
+        "poids": 0.7
+    },
+    {
+        "nom": "Antivol pour ordinateur portable",
+        "prix": 19.99,
+        "poids": 0.2
+    },
+    {
+        "nom": "Lecteur de cartes SD",
+        "prix": 12.99,
+        "poids": 0.05
+    },
+    {
+        "nom": "Filtre de confidentialité pour écran",
+        "prix": 29.99,
+        "poids": 0.1
+    }
+  ]
+  

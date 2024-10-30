@@ -1,0 +1,18 @@
+<div class="control-panel">
+    <div>
+      <label>Afficher
+        <select [(ngModel)]="rowsPerPage" (change)="changeRows(rowsPerPage)">
+          <option *ngFor="let option of [10, 20, 30, 40]" [value]="option">{{ option }}</option>
+        </select>
+        entrées
+      </label>
+    </div>
+    <input type="text" [(ngModel)]="search" (input)="onSearchChange()" placeholder="Rechercher...">
+  </div>
+  
+  <div class="pagination">
+    <button *ngFor="let page of [].constructor(totalPages); let i = index" (click)="goToPage(i + 1)">
+      {{ i + 1 }}
+    </button>
+  </div>
+  

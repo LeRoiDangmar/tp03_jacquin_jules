@@ -1,0 +1,30 @@
+<div class="container">
+    <h2>Liste des Produits</h2>
+  
+    <app-tri
+      [totalPages]="totalPages"
+      (searchTermChange)="onSearchTermChange($event)"
+      (pageChange)="onPageChange($event)"
+      (rowsPerPageChange)="onRowsPerPageChange($event)"
+    ></app-tri>
+  
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Libellé</th>
+            <th>Prix</th>
+            <th>Poids</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of displayedProduits">
+            <td>{{ item.nom }}</td>
+            <td>{{ item.prix }}</td>
+            <td>{{ item.poids }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  
